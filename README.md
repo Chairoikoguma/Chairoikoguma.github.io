@@ -5,3 +5,5 @@ The html file does not contain any Javascript files; it is purely static. This o
 These items may or may not be accurate or even included in the final version. 
 
 It's actually very simple to find things in their source code. I had been playing around since the start of the web event, but unfortunately, I could not find any exploits x). I can tell you where to look if you find me on discord XD.
+
+I will add the script that I used to pull the data. Tried not to add javascript to html to pull from backend. :)
