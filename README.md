@@ -1,6 +1,6 @@
 ### Disclaimer
 
-The html file does not contain any Javascript files; it is purely static. This only displays a list of items that I got from their APIs endpoint, which I found from the site's source code. You can also find them by manually typing an id as follow: https://cg.originmood.com/shop-item.html?id=[type id]. 
+The html file does not contain any Javascript files; it is purely static. This only displays a list of items that I got from their APIs endpoint, which I found from the site's source code. You can also find them by manually typing an id as follow: https://cg.originmood.com/shop-item.html?id=[insert_id]. 
 
 These items may or may not be accurate or even included in the final version. 
 
