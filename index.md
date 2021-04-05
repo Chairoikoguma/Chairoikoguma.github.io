@@ -1,3 +1,5 @@
+### 初心魔力商城商品
+
 [勇者幣](https://cg.originmood.com/shop-item.html?id=23) - 勇者商城專用貨幣。可在官網商城兌換至遊戲中，在法蘭城冒險者旅館前的廣場有對應的NPC（229.59），訪問後可進入勇者商城。 (1點)
 [測試道具](https://cg.originmood.com/shop-item.html?id=33) - 測試道具 (0點)
 [初心特惠大禮盒](https://cg.originmood.com/shop-item.html?id=53) - 僅售1點券的大禮盒【內含：初心頭飾、初心者活力飲料、初心補給袋】（每個會員賬號限購1個） (1點)
